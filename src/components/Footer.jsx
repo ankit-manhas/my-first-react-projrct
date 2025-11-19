@@ -15,7 +15,7 @@ const Footer = () => {
             <button onClick={() => setCount(count - 1)}>
                 minus
             </button>
-            <button onClick={() => setNewCount(count - 1)}>
+            <button onClick={() => setNewCount(countNew - 1)}>
                 minus
             </button>
         </div>
